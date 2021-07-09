@@ -11,6 +11,8 @@
 <p>Gaming enthusiast - I especially enjoy strategy and adventure-story genres.</p>
 <!-- /wp:paragraph -->
 
+View my [portfolio](https://banveronn.wordpress.com/homepage/) and [LinkedIn](https://www.linkedin.com/in/veronike-ban/)
+
 ## Education
 <!-- wp:paragraph -->
 <p><strong>Double Bachelor's Degree</strong> (2017-2021) <a href="https://www.usp.nus.edu.sg/nus-sciencespo/" target="_blank" rel="noreferrer noopener">NUS-Sciences Po Double Degree</a></p>
