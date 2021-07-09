@@ -1,7 +1,4 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/yoVeronn/Portfolio/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
+## About me!
 <!-- wp:paragraph -->
 <p>Writer, theorist, analyst. In the broadest sense of these terms.</p>
 <!-- /wp:paragraph -->
@@ -14,7 +11,14 @@ You can use the [editor on GitHub](https://github.com/yoVeronn/Portfolio/edit/ma
 <p>Gaming enthusiast - I especially enjoy strategy and adventure-story genres.</p>
 <!-- /wp:paragraph -->
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Education
+<!-- wp:paragraph -->
+<p><strong>Double Bachelor's Degree</strong> (2017-2021) <a href="https://www.usp.nus.edu.sg/nus-sciencespo/" target="_blank" rel="noreferrer noopener">NUS-Sciences Po Double Degree</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><li>Bachelor of Social Science (Political Science) with Honours (Highest Distinction) - National University of Singapore, <a href="https://www.usp.nus.edu.sg/" target="_blank" rel="noreferrer noopener">University Scholars Programme</a></li><li>Bachelor of Arts (Political Humanities) with Honours - Sciences Po, <a href="https://www.sciencespo.fr/college/fr/campus/reims" target="_blank" rel="noreferrer noopener">Reims Campus</a></li></ul>
+<!-- /wp:list -->
 
 ### Markdown
 
