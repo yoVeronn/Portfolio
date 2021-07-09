@@ -1,6 +1,6 @@
 ## About me!
 <!-- wp:paragraph -->
-<p>Writer, theorist, analyst. In the broadest sense of these terms.</p>
+<p>Writer, theorist, analyst. In the broadest sense of these terms. I like to identify, analyse, and create narratives which reflect different perspectives of the world we live in and the ideas we have. </p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -8,7 +8,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Gaming enthusiast - I especially enjoy strategy and adventure-story genres.</p>
+<p>Gaming enthusiast - I especially enjoy strategy and adventure-story genres. Currently upskilling in Unity game development as a hobby </p>
 <!-- /wp:paragraph -->
 
 View my [portfolio](https://banveronn.wordpress.com/homepage/) and [LinkedIn](https://www.linkedin.com/in/veronike-ban/)
