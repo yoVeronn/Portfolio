@@ -1,6 +1,6 @@
 ## About me!
 <!-- wp:paragraph -->
-<p>Writer, theorist, analyst. In the broadest sense of these terms. I like to identify, analyse, and create narratives which reflect different perspectives of the world we live in and the ideas we have. </p>
+<p>Writer, theorist, analyst. In the broadest sense of these terms. I like to identify, analyse, and create narratives which reflect different perspectives of the world we live in and the ideas we have of what's to come. </p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
