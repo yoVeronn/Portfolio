@@ -2,6 +2,18 @@
 
 You can use the [editor on GitHub](https://github.com/yoVeronn/Portfolio/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
+<!-- wp:paragraph -->
+<p>Writer, theorist, analyst. In the broadest sense of these terms.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Cat-lover</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Gaming enthusiast - I especially enjoy strategy and adventure-story genres.</p>
+<!-- /wp:paragraph -->
+
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
